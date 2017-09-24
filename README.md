@@ -1,7 +1,7 @@
 yii2-tnt extension
 ===================
-[![Total Downloads](https://poser.pugx.org/linslin/yii2-curl/downloads)](https://packagist.org/packages/apaticmusic/yii2-tnt)
-[![License](https://poser.pugx.org/linslin/yii2-curl/license)](https://packagist.org/packages/apaticmusic/yii2-tnt)
+[![Total Downloads](https://poser.pugx.org/apaticmusic/yii2-tnt/downloads)](https://packagist.org/packages/apaticmusic/yii2-tnt)
+[![License](https://poser.pugx.org/apaticmusic/yii2-tnt/license)](https://packagist.org/packages/apaticmusic/yii2-tnt)
                    
 Tierion blockchain datastore component for YII2 Framework.
 
