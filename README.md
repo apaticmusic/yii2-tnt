@@ -5,6 +5,8 @@ yii2-tnt extension
                    
 Tierion blockchain datastore component for YII2 Framework.
 
+More info about Tierion: http://tierion.com
+
 Requirements
 ------------
 - Yii2
