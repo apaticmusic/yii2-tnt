@@ -1,7 +1,7 @@
 yii2-tnt extension
 ===================
 
-Tierion blockchain datastore component for YII2 Framework.
+Tierion blockchain datastore component for YII2 Framework. It uses Data API (https://tierion.com/docs/dataapi).
 
 More info about Tierion: http://tierion.com
 
@@ -18,7 +18,7 @@ Installation
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 ```bash
-composer require apaticmusic/yii2-tnt
+composer require --prefer-dist apaticmusic/yii2-tnt "*"
 ```
 
 
