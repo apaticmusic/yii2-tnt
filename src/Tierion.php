@@ -1,6 +1,6 @@
 <?php
 /**
- * Tierion class
+ * Tierion blockchain datastore extension for YII2 Framework. It uses Data API (https://tierion.com/docs/dataapi).
  * Date: 24.09.17
  * Autor: Pavel Brovchenko (pavelbrovchenko@gmail.com)
  */
