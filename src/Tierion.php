@@ -5,8 +5,9 @@
  * Autor: Pavel Brovchenko (pavelbrovchenko@gmail.com)
  */
 
-use linslin\yii2\curl;
+namespace apaticmusic\yii2\tnt;
 
+use linslin\yii2\curl;
 
 class Tierion
 {
