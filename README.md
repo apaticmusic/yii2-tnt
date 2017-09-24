@@ -18,7 +18,7 @@ Installation
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 ```bash
-composer require --prefer-dist apaticmusic/yii2-tnt "*"
+composer require apaticmusic/yii2-tnt
 ```
 
 
