@@ -28,7 +28,7 @@ Usage
 ```php
 use apaticmusic\yii2\tnt;
 ...
-$tierion = new Tierion($tierionApiKey, $tierionUsername, false);
+$tierion = new tnt\Tierion($tierionApiKey, $tierionUsername, false);
 
 $datastores = $tierion->getDatastores(); //Get all datastores
 echo print_r($tierion->createRecord($datastores[0]['id'], ['thisisatestid'=>'This is a test data record']), true) . PHP_EOL; //Create data record in the first datastore
