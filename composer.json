@@ -4,7 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension", "Tierion", "TNT", "Blockchain"],
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "authors": [
         {
             "name": "Pavel Brovchenko",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "apaticmusic\\yii2\\tnt\\": "src/"
+            "apaticmusic\\": "src/"
         }
     }
 }
