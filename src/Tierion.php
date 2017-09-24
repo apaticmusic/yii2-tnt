@@ -5,8 +5,6 @@
  * Autor: Pavel Brovchenko (pavelbrovchenko@gmail.com)
  */
 
-namespace app\components;
-
 use linslin\yii2\curl;
 
 
