@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "apaticmusic\\yii2-tnt\\": ""
+            "apaticmusic\\tnt\\": ""
         }
     }
 }
