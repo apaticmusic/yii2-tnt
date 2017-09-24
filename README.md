@@ -1,7 +1,7 @@
 yii2-tnt extension
 ===================
 
-Tierion blockchain datastore component for YII2 Framework. It uses Data API (https://tierion.com/docs/dataapi).
+Tierion blockchain datastore extension for YII2 Framework. It uses Data API (https://tierion.com/docs/dataapi).
 
 More info about Tierion: http://tierion.com
 
