@@ -11,8 +11,9 @@
             "email": "pavelbrovchenko@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
+        "yiisoft/yii2": "*",
+        "ext-curl": "*",
         "linslin/yii2-curl": "*"
     },
     "autoload": {
