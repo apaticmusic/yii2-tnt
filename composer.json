@@ -4,12 +4,14 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension", "Tierion", "TNT", "Blockchain"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Pavel Brovchenko",
             "email": "pavelbrovchenko@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "linslin/yii2-curl": "*"
     },
