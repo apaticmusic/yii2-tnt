@@ -20,4 +20,4 @@ Installation
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 ```bash
-php composer.phar require --prefer-dist apaticmusic/yii2-tnt "*"
+composer require --prefer-dist apaticmusic/yii2-tnt "*"
