@@ -26,7 +26,7 @@ Usage
 ------------
 
 ```php
-use apaticmusic\yii2\tnt;
+use apaticmusic\yii2-tnt;
 ...
 $tierion = new Tierion($tierionApiKey, $tierionUsername, false);
 
