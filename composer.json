@@ -12,9 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "ext-curl": "*"
-    },
-    "require-dev": {
+        "ext-curl": "*",
         "linslin/yii2-curl": "*"
     },
     "autoload": {
